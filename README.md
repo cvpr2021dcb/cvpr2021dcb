@@ -4,6 +4,7 @@
 For a better user experience, we recommend you to directly use github repository
 github [link](https://github.com/cvpr2021dcb/cvpr2021dcb)
 
+This project is deveopped based on HuggingFace Transformer [link](https://github.com/huggingface/transformers)
 ## Prepare dataset and models
 
 ### Dataset
